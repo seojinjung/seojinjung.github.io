@@ -1,12 +1,14 @@
 # basic information
-name: seojin jung (they/them)
+name: seojin jung
 profile-pic: 
-pronunciation: /sʌdʒɪn dʒʌŋ/
-# pronunciation-emoji: 🎧
+# repurpose pronunciation for pronouns instead
+pronunciation: they/them
+# /sʌdʒɪn dʒʌŋ/ <- for if i decide to add pronunciation
+pronunciation-emoji: 🎧
 
 # emoji indicator
-# emoji: 🍀
-# desc-emoji: four-leaf clover
+emoji: 🐛
+desc-emoji: bug
 
 # social links
 scholar: 

@@ -1,7 +1,7 @@
 # seojinjung.github.io
 My personal website. Currently under construction.
 
-# TO DO:
+## TO DO:
 - fill in yamls
     - about
     - footer
@@ -13,6 +13,7 @@ My personal website. Currently under construction.
 - add images
 - favicon
 - organize sections
+    - personal projects?
 - name pronunciation
 
 Jekyll theme by [@mkhangg](https://github.com/mkhangg).
