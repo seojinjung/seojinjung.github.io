@@ -18,7 +18,6 @@ btn.on('click', function(e) {
     clickSound.play();
 });
 
-
 // Play pronunciation audio when the emoji is clicked
 document.getElementById('volumeEmoji').addEventListener('click', function() {
     const pronunicationAudio = new Audio('assets/sounds/seojinjung.mp3');
