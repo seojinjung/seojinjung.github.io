@@ -13,16 +13,16 @@ body.dark-theme {
 
 /* Hyperlink, hightlight, and text styles */
 a {
-    color: #bd5d38;
+    color: #7b24ff;
     text-decoration: none;
     background-color: transparent;
 }
 a:hover {
-    color: #824027;
+    color: #5500d7;
     text-decoration: underline;
 }
 hightlight {
-    color: #bd5d38;
+    color: #7b24ff;
     text-decoration: none;
     background-color: transparent;
 }
@@ -34,13 +34,13 @@ hightlight {
 
 /* Styles for user selection */
 ::selection {
-    background-color: #ffb699;
+    background-color: #c6a1ff;
     transition: 0.5s;
 }
 
 /* Light theme style for user selection */
 .light-theme ::selection {
-    background-color: #ffb699;
+    background-color: #c6a1ff;
 }
 
 /* Dark theme style for user selection */
@@ -149,7 +149,7 @@ nav ul li {
     text-align: center;
 }
 nav ul li p {
-    color: #bd5d38;
+    color: #7b24ff;
     display: block;
     padding: 10px 0px;
     font-size: medium;
@@ -159,11 +159,11 @@ nav ul li p {
 }
 nav ul li p span.text {
     text-decoration: underline;
-    color: #bd5d38;
+    color: #7b24ff;
     cursor: pointer;
 }
 nav ul li p:hover span.text {
-    color: #824027;
+    color: #5500d7;
     cursor: pointer;
 }
 
@@ -988,7 +988,7 @@ div.desc {
 }
 .progress-bar {
     height: 1px;
-    background: #bd5d38;
+    background: #7b24ff;
     width: 0%;
 }
 .light-theme .progress-bar-container {

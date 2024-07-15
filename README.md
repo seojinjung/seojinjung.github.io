@@ -11,9 +11,7 @@ My personal website. Currently under construction.
     - updates?
 - edit css
 - add images
-- favicon
 - organize sections
     - personal projects?
-- name pronunciation
 
 Jekyll theme by [@mkhangg](https://github.com/mkhangg).
