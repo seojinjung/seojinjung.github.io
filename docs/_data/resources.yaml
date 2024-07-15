@@ -5,8 +5,8 @@ categories:
   - data-filter: research
     category-name: research
 
-  - data-filter: outreach
-    category-name: outreach
+  # - data-filter: outreach
+    # category-name: outreach
   
   - data-filter: misc
     category-name: miscellaneous

@@ -1,7 +1,7 @@
 # basic information
-name: seojin jung
+name: seojin jung (they/them)
 profile-pic: 
-pronunciation: 
+pronunciation: /sʌdʒɪn dʒʌŋ/
 # pronunciation-emoji: 🎧
 
 # emoji indicator
@@ -28,10 +28,8 @@ website: https://seojinjung.github.io/
 web-dns: seojinjung.github.io
 
 # about me
-first-paragraph: 
-# I am a research assistant at the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> affiliated with the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>, building upon the research I initiated during my undergraduate studies here. (◕▿◕)
-second-paragraph: 
-# I grew up in <a href="https://en.wikipedia.org/wiki/Saigon" target="_blank" rel="noopener">Saigon, Vietnam</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">VNU-HCM High School for the Gifted</a> (informatics program of 2020) and previously <a href="https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a_High_School_for_the_Gifted" target="_blank" rel="noopener">TĐN Secondary School for the Gifted</a> (mathematics program of 2017) with very good friends - too many to name them here, where we played football (soccer) on concrete fields together afterschool.
+first-paragraph: I am a recent graduate from <a href="https://www.amherst.edu/" target="_blank" rel="noopener">Amherst College</a> (2024), where I studied biology and computer science. As an undergrad, I worked in the <a href="https://jeffreyblanchard.github.io/lab/" target="_blank" rel="noopener">Blanchard lab</a> at the <a href="https://www.umass.edu/" target="_blank" rel="noopener">University of Massachusetts Amherst</a>, where, for my honors thesis in biology, I analyzed the metagenomic data of soil-dwelling bacterial decomposers from Harvard Forest to determine how they have changed in response to long-term warming. 
+second-paragraph: My research interests are fairly broad at the moment, but I generally gravitate toward topics in computational biology, bioinformatics, microbiology, and genetics/genomics. Outside of research, I enjoy learning about entomology and medical history, among other things. I also like to draw, crochet, knit,  and cook.
 research-introduction: 
 # I do research in robotics, mainly focusing on applying <code>cognitive architectures to robotic grasping</code> to enable robots with a closely similar human grasping capability. Just imagine the robot enters the kitchen, finds a banana, grasps without crushing it, and brings it back to you.
 
