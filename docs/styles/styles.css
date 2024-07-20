@@ -13,16 +13,16 @@ body.dark-theme {
 
 /* Hyperlink, hightlight, and text styles */
 a {
-    color: #6f21e3;
+    color: #9b65ec;
     text-decoration: none;
     background-color: transparent;
 }
 a:hover {
-    color: #5500d7;
+    color: #8c3ee9;
     text-decoration: underline;
 }
 hightlight {
-    color: #6f21e3;
+    color: #9b65ec;
     text-decoration: none;
     background-color: transparent;
 }
@@ -149,7 +149,7 @@ nav ul li {
     text-align: center;
 }
 nav ul li p {
-    color: #6f21e3;
+    color: #9b65ec;
     display: block;
     padding: 10px 0px;
     font-size: medium;
@@ -159,11 +159,11 @@ nav ul li p {
 }
 nav ul li p span.text {
     text-decoration: underline;
-    color: #6f21e3;
+    color: #9b65ec;
     cursor: pointer;
 }
 nav ul li p:hover span.text {
-    color: #5500d7;
+    color: #8c3ee9;
     cursor: pointer;
 }
 
@@ -988,7 +988,7 @@ div.desc {
 }
 .progress-bar {
     height: 1px;
-    background: #6f21e3;
+    background: #9b65ec;
     width: 0%;
 }
 .light-theme .progress-bar-container {

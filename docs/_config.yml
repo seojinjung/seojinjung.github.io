@@ -1,7 +1,8 @@
 # headers and icon 
 title: seojin jung
 info: site under construction
-icon-pic: assets/img/weevil_icon.png    # icon by Nikita Golubev 
+# temporary icon until i think of a better one lol
+icon-pic: assets/img/weevil_icon.png    # icon by Nikita Golubev at Flaticon
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Seojin Jung's personal GitHub Pages website.
 # baseurl: "" # the subpath of your site, e.g. /blog

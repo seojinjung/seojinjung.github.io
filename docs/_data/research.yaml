@@ -5,6 +5,22 @@ categories:
 
 projects:
 
+  # - title: your paper title
+  #   system-name: your system title
+  #   gif: link to the representative image to your paper
+  #   conference: conference/journal name
+  #   conference-web: conference/journal webpage
+  #   status: status of the paper
+  #   authors: author list
+  #   pdf: link to your paper
+  #   code: code for your project
+  #   demo: demo for your project
+  #   slides: presentation slides 
+  #   talk: video of your presentation
+  #   abstract-less: portion of the paper's abstract
+  #   abstract-more: the rest of the paper's abstract
+  #   tag: a unique tag for your paper
+
   # - title: Real-Time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision
   #   system-name: 
   #   gif: assets/img/demo_scene_perception.gif
