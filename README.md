@@ -5,9 +5,9 @@ My personal website. Currently under construction.
 - fill in yamls
     - about
     - footer
-    - gallery
+    - gallery?
     - research
-    - resources?
+    - resources
     - updates?
 - edit css
 - add images

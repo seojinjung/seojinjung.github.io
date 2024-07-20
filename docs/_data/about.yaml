@@ -23,7 +23,7 @@ contact:        show            # delete "show" or leave it blank to hide this i
 
 # information for contact card
 dept:   
-lab:    
+lab:     
 email:   ajung24@amherst.edu
 phone:   +1 (806) 201-2713
 website: https://seojinjung.github.io/
@@ -31,7 +31,7 @@ web-dns: seojinjung.github.io
 
 # about me
 first-paragraph: I am a recent graduate from <a href="https://www.amherst.edu/" target="_blank" rel="noopener">Amherst College</a> (2024), where I studied biology and computer science. As an undergrad, I worked in the <a href="https://jeffreyblanchard.github.io/lab/" target="_blank" rel="noopener">Blanchard lab</a> at the <a href="https://www.umass.edu/" target="_blank" rel="noopener">University of Massachusetts Amherst</a>, where, for my honors thesis in biology, I analyzed the metagenomic data of soil-dwelling bacterial decomposers from Harvard Forest to determine how they have changed in response to long-term warming. 
-second-paragraph: My research interests are fairly broad at the moment, but I generally gravitate toward topics in computational biology, bioinformatics, microbiology, and genetics/genomics. Outside of research, I enjoy learning about entomology and medical history, among other things. I also like to draw, crochet, knit,  and cook.
+second-paragraph: My research interests are fairly broad at the moment, but I generally gravitate toward topics in computational biology, bioinformatics, microbiology, and genetics/genomics. Outside of research, I enjoy learning about entomology and medical history, among other things. I also like to draw, crochet, knit, hike, and cook.
 research-introduction: 
 # I do research in robotics, mainly focusing on applying <code>cognitive architectures to robotic grasping</code> to enable robots with a closely similar human grasping capability. Just imagine the robot enters the kitchen, finds a banana, grasps without crushing it, and brings it back to you.
 
