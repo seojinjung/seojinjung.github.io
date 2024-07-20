@@ -1,7 +1,6 @@
 # basic information
 name: seojin jung
-profile-pic: 
-# assets/img/profile.jpg
+profile-pic: assets/img/profile.jpg
 pronunciation: they/them    # repurpose pronunciation for pronouns instead
 # /sʌdʒɪn dʒʌŋ/ <- for if i decide to add pronunciation
 pronunciation-emoji: 🎧
@@ -11,14 +10,14 @@ emoji: 🐛
 desc-emoji: bug
 
 # social links
-scholar:         
+scholar:        
 researchgate:   
 github:         https://github.com/seojinjung
 youtube:         
-resume:         
+resume:         assets/doc/Seojin_Jung_Abbr_Lab_Resume_July_2024.pdf
 projects:       show            # delete "show" or leave it blank to hide this icon
 codepen:        
-orcid:          
+orcid:          https://orcid.org/0009-0000-1173-7751
 contact:        show            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
