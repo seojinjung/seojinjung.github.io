@@ -14,3 +14,11 @@ mini-projects:
   #   demo: https://youtu.be/m1g6fkH6Zvg
   #   description: We present an autonomous spatial voice localization crawling robot demonstrating the potential of assistive technology for people with visual impairment to ask for help whenever they are in a spatial area without physical assistance. 
   #   prize: Won Sponsorship Award for Assistive Technologies over 198 competing teams.
+  - title: GERMSPIPE
+    # gif: assets/img/demo_spidey.gif
+    code: https://github.com/repos/seojinjung/GERMSPIPE
+    description: A reproducible germline short variant discovery pipeline from Illumina whole-exome sequences, based on the Broad Institute's GATK Best Practices and nf-core/sarek workflows. Personal project.
+  - title: Little Protein Guys
+    gif: assets/img/ball-and-stick_example.png
+    code: https://github.com/repos/seojinjung/Little_Protein_Guys
+    description: A (very) simplified protein visualizer I built in Python.

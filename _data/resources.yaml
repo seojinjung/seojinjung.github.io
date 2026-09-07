@@ -16,11 +16,11 @@ links:
   - git-api:  https://api.github.com/repos/OurMicrobiome/seojin_thesis
     category: research
 
-  # - git-api: https://api.github.com/repos/mkhangg/semantic_scene_perception
-  #   category: research
+  - git-api: https://api.github.com/repos/seojinjung/Little_Protein_Guys
+    category: misc
   
-  # - git-api: https://api.github.com/repos/mkhangg/academic-website
-  #   category: misc
+  - git-api: https://api.github.com/repos/seojinjung/GERMSPIPE
+    category: misc
 
   # - git-api: https://api.github.com/repos/mkhangg/deformable_cobot
   #   category: research
